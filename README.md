@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brendan Veit
 - 🌱 I’m currently learning Computer Science at Stockton University
-- 💞️ I’m looking to collaborate on Software Engineering Internships or related Internships
+- 💞️ I’m looking to learn more about software and programming through Software Engineering Internships or related Internships
 - 📫 How to reach me brendanveit@gmail.com or 856-685-9001
 
 <!---
